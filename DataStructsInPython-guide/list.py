@@ -20,4 +20,4 @@ while len(listOfNumbers) != 0:
 
 printList(listOfNumbers) # принтит пустой список
 
-# для pop'a и push'a можно написать функции, но синтаксис меня душит 
+# для pop'a и push'a можно написать функции, но python меня душит 
