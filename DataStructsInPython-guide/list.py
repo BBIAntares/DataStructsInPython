@@ -1,9 +1,21 @@
+
+def printList(listArg):
+    for it in listArg:
+        print(it)
+
+
 x = 0
 listOfNumbers = []
 
-while x < 5:
+
+while len(listOfNumbers) < 10:
     x+=1
     listOfNumbers.append(x)
 
-for numbers in listOfNumbers:
-    print(numbers)
+printList(listOfNumbers)  
+
+
+while len(listOfNumbers) != 0:
+    listOfNumbers.pop();
+
+printList(listOfNumbers) 
