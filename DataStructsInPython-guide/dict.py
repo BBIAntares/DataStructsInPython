@@ -7,5 +7,4 @@ while len(dictionaryCharKInt) < 5:
     intIt+=1
     dictionaryCharKInt[input()] = x
 
-# принтим количество элементов в словаре 
-print(len(dictionaryCharKInt))
+print(len(dictionaryCharKInt)) # принтим количество элементов в словаре 
