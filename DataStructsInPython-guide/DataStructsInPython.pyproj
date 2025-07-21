@@ -26,6 +26,9 @@
     <Compile Include="dict.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="set.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="tuple.py">
       <SubType>Code</SubType>
     </Compile>
